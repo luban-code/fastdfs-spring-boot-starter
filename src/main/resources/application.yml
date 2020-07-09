@@ -1,0 +1,3 @@
+fastdfs:
+  config:
+    configFile: fdfs_client.conf
